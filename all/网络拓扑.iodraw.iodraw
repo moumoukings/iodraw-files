@@ -673,7 +673,7 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-138" value="fa:fa-server ECS Node 2&#xa;Anolis OS / Docker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="804" y="3753" width="230" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-139" value="fa:fa-database RDS MySQL&#xa;主从高可用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-139" value=" RDS MySQL&#xa;主从高可用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="355" y="3953" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-140" value="fa:fa-memory Redis 7.x&#xa;主从架构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
