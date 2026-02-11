@@ -55,11 +55,10 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-19" value="WCS系统 &#xa; (仓库自动化系统)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1421" y="758" width="154" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="639.9999999999995" y="94" as="sourcePoint" />
-            <mxPoint x="640.5" y="169" as="targetPoint" />
+            <mxPoint x="662.9999999999995" y="94" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-7" target="19Gj7TJy5gSCCbPuTNtH-8">
@@ -797,7 +796,7 @@
           <mxGeometry x="620" y="4.22" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-232" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
-          <mxGeometry x="704" y="182.5" width="39" height="39" as="geometry" />
+          <mxGeometry x="727" y="182.5" width="39" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
