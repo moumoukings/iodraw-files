@@ -150,7 +150,10 @@
           <mxGeometry x="750" y="810" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-269" value="RDS MySQL&lt;br&gt;主库/备库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="820" width="130" height="30" as="geometry" />
+          <mxGeometry x="898.92" y="810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-270" value="RDS MySQL&lt;br&gt;主库/备库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1041.2" y="810" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
