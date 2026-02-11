@@ -20,7 +20,7 @@
           <mxGeometry x="601" y="169" width="125" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-8" value="SLB负载均衡" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="604" y="285" width="176" height="49" as="geometry" />
+          <mxGeometry x="551.75" y="285" width="224.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-9" value="API Gateway &#xa; 统一认证入口层" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="592" y="383" width="142" height="66" as="geometry" />
