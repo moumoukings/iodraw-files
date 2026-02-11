@@ -793,7 +793,10 @@
           <mxGeometry x="569" y="-40" width="188" height="118.44" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-231" value="Internet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="616" width="83" height="30" as="geometry" />
+          <mxGeometry x="620" y="4.22" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-232" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
+          <mxGeometry x="284" y="101" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
