@@ -76,13 +76,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-9" target="19Gj7TJy5gSCCbPuTNtH-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="474" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-10" target="19Gj7TJy5gSCCbPuTNtH-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -230,9 +223,6 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-47" value="Internet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="569" y="900" width="188" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-48" value="Internet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="604" y="925" width="118" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-49" value="Alibaba WAF &#xa; Web防火墙层" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="601" y="1049" width="125" height="66" as="geometry" />
         </mxCell>
@@ -272,9 +262,10 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-61" value="WCS系统 &#xa; (仓库自动化系统)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1421" y="1638" width="154" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-48" target="19Gj7TJy5gSCCbPuTNtH-49">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="663" y="973.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-49" target="19Gj7TJy5gSCCbPuTNtH-50">
