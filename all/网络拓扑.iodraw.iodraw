@@ -789,8 +789,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-229" value="Internet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="569.5" y="-60" width="188" height="118.44" as="geometry" />
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-229" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="569" y="-40" width="188" height="118.44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
