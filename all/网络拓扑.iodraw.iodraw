@@ -23,7 +23,7 @@
           <mxGeometry x="551.75" y="285" width="224.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-9" value="API Gateway &#xa; 统一认证入口层" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="592" y="383" width="142" height="66" as="geometry" />
+          <mxGeometry x="592" y="383" width="224.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-10" value="ECS Node 1 &#xa; Anolis OS 8.10 &#xa; Docker部署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="583" y="549" width="162" height="84" as="geometry" />
