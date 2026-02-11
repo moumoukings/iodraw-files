@@ -23,10 +23,10 @@
           <mxGeometry x="551.75" y="383" width="224.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-18" value="Oracle EBS系统 &#xa; (VPN/专线接入)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1228" y="758" width="143" height="66" as="geometry" />
+          <mxGeometry x="1140" y="360" width="143" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-19" value="WCS系统 &#xa; (仓库自动化系统)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1421" y="758" width="154" height="66" as="geometry" />
+          <mxGeometry x="1340" y="350" width="154" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-7">
           <mxGeometry relative="1" as="geometry">
