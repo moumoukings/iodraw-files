@@ -223,18 +223,6 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-47" value="Internet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="569" y="900" width="188" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-53" value="ECS Node 2 &#xa; Anolis OS 8.10 &#xa; Docker部署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="371" y="1429" width="162" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-55" value="RDS MySQL &#xa; 主库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="75" y="1638" width="137" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-56" value="RDS MySQL &#xa; 备库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="1638" width="137" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-57" value="Redis 7.x &#xa; 主从" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1638" width="124" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-59" value="Elasticsearch &#xa; 集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="905" y="1638" width="153" height="66" as="geometry" />
         </mxCell>
@@ -243,67 +231,6 @@
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-61" value="WCS系统 &#xa; (仓库自动化系统)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1421" y="1638" width="154" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="124" y="1538" />
-              <mxPoint x="124" y="1613" />
-            </Array>
-            <mxPoint x="583" y="1481.08" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="247" y="1538" />
-              <mxPoint x="247" y="1613" />
-            </Array>
-            <mxPoint x="583" y="1484.44" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="432" y="1538" />
-              <mxPoint x="432" y="1613" />
-            </Array>
-            <mxPoint x="583" y="1494.52" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-53" target="19Gj7TJy5gSCCbPuTNtH-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="207" y="1538" />
-              <mxPoint x="207" y="1613" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-53" target="19Gj7TJy5gSCCbPuTNtH-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="328" y="1538" />
-              <mxPoint x="328" y="1613" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.85;entryY=0;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="227" y="1538" />
-              <mxPoint x="227" y="1613" />
-            </Array>
-            <mxPoint x="794" y="1479.4" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.84;entryY=0;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="412" y="1538" />
-              <mxPoint x="412" y="1613" />
-            </Array>
-            <mxPoint x="794" y="1482.7600000000002" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-59">
           <mxGeometry relative="1" as="geometry">
