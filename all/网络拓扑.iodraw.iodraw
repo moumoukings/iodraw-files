@@ -233,7 +233,7 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-44" value="阿里云 VPC 网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1379" width="1153" height="375" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-45" value="数据子网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-45" value="数据子网" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="1613" width="1053" height="116" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-46" value="应用子网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
