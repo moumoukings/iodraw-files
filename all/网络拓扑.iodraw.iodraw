@@ -679,7 +679,7 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-140" value=" Redis 7.x&#xa;主从架构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="652" y="3953" width="228" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-141" value="fa:fa-envelope-open-text RabbitMQ&#xa;Serverless" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-141" value=" RabbitMQ&#xa;Serverless" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="938" y="3944" width="242" height="84" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-142" value="fa:fa-magnifying-glass Elasticsearch&#xa;集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
