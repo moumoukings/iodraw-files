@@ -155,6 +155,9 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-271" value="Elasticsearch 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="900" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-272" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
