@@ -796,7 +796,7 @@
           <mxGeometry x="620" y="4.22" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-232" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
-          <mxGeometry x="284" y="101" width="68" height="68" as="geometry" />
+          <mxGeometry x="782" y="167" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
