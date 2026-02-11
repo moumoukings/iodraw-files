@@ -156,10 +156,10 @@
           <mxGeometry x="840" y="900" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-272" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1050" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-273" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
