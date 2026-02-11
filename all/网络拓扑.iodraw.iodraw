@@ -682,10 +682,10 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-141" value=" RabbitMQ&#xa;Serverless" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="938" y="3944" width="242" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-142" value="fa:fa-magnifying-glass Elasticsearch&#xa;集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-142" value=" Elasticsearch&#xa;集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1239" y="3944" width="219" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-143" value="fa:fa-building-columns Oracle EBS系统&#xa;VPN/专线接入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-143" value=" Oracle EBS系统&#xa;VPN/专线接入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1627" y="3944" width="222" height="84" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-144" value="fa:fa-robot WCS系统&#xa;仓库自动化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
