@@ -119,7 +119,7 @@
             <mxPoint x="1217" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-256" value="ECS Node 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-256" value="ECS Node 1&lt;div&gt;Anolis OS 8.10&lt;br&gt;Docker&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;部署&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="820" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
