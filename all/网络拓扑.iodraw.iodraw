@@ -8,7 +8,7 @@
           <mxGeometry x="1193" y="708" width="416" height="166" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-2" value="阿里云 VPC 网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="16" y="1010" width="1153" height="375" as="geometry" />
+          <mxGeometry x="300" y="1320" width="869" height="65" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-3" value="数据子网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="733" width="1053" height="116" as="geometry" />
