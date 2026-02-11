@@ -19,10 +19,10 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-7" value="Alibaba WAF &#xa; Web防火墙层" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f5f9fd;gradientColor=none;strokeColor=#d6d8d9;" vertex="1" parent="1">
           <mxGeometry x="550.75" y="160" width="224.5" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-8" value="SLB负载均衡" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-8" value="SLB负载均衡" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#F5F9FD;" vertex="1" parent="1">
           <mxGeometry x="551.75" y="285" width="224.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-9" value="API Gateway &#xa; 统一认证入口层" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-9" value="API Gateway &#xa; 统一认证入口层" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#F5F9FD;" vertex="1" parent="1">
           <mxGeometry x="551.75" y="383" width="224.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-10" value="ECS Node 1 &#xa; Anolis OS 8.10 &#xa; Docker部署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
