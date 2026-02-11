@@ -161,6 +161,9 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-271" value="Elasticsearch 集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="900" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-272" target="19Gj7TJy5gSCCbPuTNtH-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-272" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1050" width="180" height="60" as="geometry" />
         </mxCell>
@@ -190,6 +193,9 @@
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-284" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;WCS系统&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(仓库自动化系统)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="799" y="1215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="19Gj7TJy5gSCCbPuTNtH-276" target="19Gj7TJy5gSCCbPuTNtH-282">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
