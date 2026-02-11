@@ -149,11 +149,14 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-268" value="RDS MySQL&lt;br&gt;主库/备库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="810" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-269" value="RDS MySQL&lt;br&gt;主库/备库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-269" value="Redis 7.x&lt;br&gt;主从" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="898.92" y="810" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-270" value="RDS MySQL&lt;br&gt;主库/备库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1041.2" y="810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-271" value="RDS MySQL&lt;br&gt;主库/备库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="900" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
