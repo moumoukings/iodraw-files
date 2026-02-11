@@ -211,35 +211,14 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-43" value="外部系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1193" y="1588" width="416" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-44" value="阿里云 VPC 网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1379" width="1153" height="375" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-45" value="数据子网" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1613" width="1053" height="116" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-46" value="应用子网" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="52" y="1404" width="1101" height="134" as="geometry" />
-        </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-47" value="Internet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="569" y="900" width="188" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-59" value="Elasticsearch &#xa; 集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="905" y="1638" width="153" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-60" value="Oracle EBS系统 &#xa; (VPN/专线接入)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1228" y="1638" width="143" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-61" value="WCS系统 &#xa; (仓库自动化系统)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1421" y="1638" width="154" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1027" y="1538" />
-              <mxPoint x="1027" y="1613" />
-            </Array>
-            <mxPoint x="956.0000000000005" y="1506.2800000000002" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" target="19Gj7TJy5gSCCbPuTNtH-60">
           <mxGeometry relative="1" as="geometry">
