@@ -798,6 +798,9 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-232" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
           <mxGeometry x="727" y="182.5" width="39" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-236" value="Internet" style="shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="-160" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
