@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="733" width="1053" height="116" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-4" value="应用子网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="92" y="880" width="1101" height="134" as="geometry" />
+          <mxGeometry x="92" y="880" width="398" height="134" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-7" value="Alibaba WAF &#xa; Web防火墙层" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f5f9fd;gradientColor=none;strokeColor=#d6d8d9;" vertex="1" parent="1">
           <mxGeometry x="550.75" y="160" width="224.5" height="66" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="551.75" y="383" width="224.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-10" value="ECS Node 1 &#xa; Anolis OS 8.10 &#xa; Docker部署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="583" y="549" width="162" height="84" as="geometry" />
+          <mxGeometry x="835" y="940" width="162" height="84" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-11" value="ECS Node 2 &#xa; Anolis OS 8.10 &#xa; Docker部署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="371" y="549" width="162" height="84" as="geometry" />
+          <mxGeometry x="541" y="874" width="162" height="84" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-12" value="ECS Node 3 &#xa; Anolis OS 8.10 &#xa; Docker部署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="794" y="549" width="162" height="84" as="geometry" />
