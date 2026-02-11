@@ -16,7 +16,7 @@
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-4" value="应用子网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="524" width="1101" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="19Gj7TJy5gSCCbPuTNtH-7" value="Alibaba WAF &#xa; Web防火墙层" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f5f9fd;gradientColor=none;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="19Gj7TJy5gSCCbPuTNtH-7" value="Alibaba WAF &#xa; Web防火墙层" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f5f9fd;gradientColor=none;strokeColor=#d6d8d9;" vertex="1" parent="1">
           <mxGeometry x="550.75" y="160" width="224.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="19Gj7TJy5gSCCbPuTNtH-8" value="SLB负载均衡" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
